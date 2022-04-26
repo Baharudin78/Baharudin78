@@ -8,11 +8,11 @@
 <p align="left">
     <p >- 🌱 I’m currently learning Android Development </p>
 
-    <p >- 💬 Ask me about Kotlin, Android </p>
+     - 💬 Ask me about Kotlin, Android 
 
-    <p >- 📫 How to reach me baharudinmaulana78@gmail.com </p>
+     - 📫 How to reach me baharudinmaulana78@gmail.com 
 
-    <p >- ⚡ Fun fact I love cats </p>
+     - ⚡ Fun fact I love cats 
 
 </p>
 
