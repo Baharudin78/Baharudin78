@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Baharudin</h1>
-<h3 align="center">A passionate Android Development from Indonesia</h3>
+<h3 align="center">A passionate Mobile Development from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baharudin78&label=Profile%20views&color=0e75b6&style=flat" alt="baharudin78" /> </p>
 
 <p align="left">
-    <p >- 🌱 I’m currently learning Android Development </p>
+    <p >- 🌱 I’m currently learning Mobile Development </p>
 
      - 💬 Ask me about Kotlin, Android 
 
